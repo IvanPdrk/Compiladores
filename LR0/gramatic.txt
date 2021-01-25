@@ -1,0 +1,6 @@
+A->aBC
+A->bCD
+B->ABb
+B->Dab
+C->c
+D->d
